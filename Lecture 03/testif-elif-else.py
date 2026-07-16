@@ -1,4 +1,4 @@
-num_employees = int (input("Enter the number of employees: "))
+num_employees = int(input("Enter the number of employees: "))
 
 if num_employees < 50:
     print("This is a small company.")
