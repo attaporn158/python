@@ -2,7 +2,7 @@ string1 = "Mary"
 string2 = "Mark"
 
 if string1 == string2:
-    print(f'"{string}" and "{string2}" are equal.')
+    print(f'"{string1}" and "{string2}" are equal.')
 else:
     print(f'"{string1}" and "{string2}" are not equal.')
     
